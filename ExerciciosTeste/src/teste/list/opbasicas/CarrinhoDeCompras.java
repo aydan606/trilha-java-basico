@@ -1,4 +1,4 @@
-package teste.opbasicas;
+package teste.list.opbasicas;
 
 import java.util.ArrayList;
 import java.util.List;

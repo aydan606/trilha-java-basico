@@ -1,4 +1,4 @@
-package teste.ordenacao;
+package teste.list.ordenacao;
 
 import java.util.ArrayList;
 import java.util.Collections;

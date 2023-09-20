@@ -1,4 +1,4 @@
-package teste.opbasicas;
+package teste.list.opbasicas;
 
 public class Item {
 
