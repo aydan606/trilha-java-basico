@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosTeste.iml" filepath="$PROJECT_DIR$/ExerciciosTeste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Desafios_Stream_API/ExerciciosTeste/ExerciciosTeste.iml" filepath="$PROJECT_DIR$/../Desafios_Stream_API/ExerciciosTeste/ExerciciosTeste.iml" />
     </modules>
   </component>
 </project>
